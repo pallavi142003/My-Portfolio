@@ -1,0 +1,14 @@
+.contact {
+    padding: 4rem;
+    text-align: center;
+    background: #765d5d;
+    color: white;
+  }
+  
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 1rem 0;
+  }
+  
